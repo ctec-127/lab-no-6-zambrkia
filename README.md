@@ -26,7 +26,7 @@ This repository contains the following files:
 
 ![Screen Layout](https://s3.amazonaws.com/ctec-assets/lab6_screen.png)
 
-## Staging Your Changes
+## Staging Your Code Changes
 
 1. Once you have completed your work and before you push your changes back to **GitHub**, you will need to first **stage** the file that you have changed which is **lab6.php**. If you modified any of the others files thatn make sure that these files also get staged.
 2. In **Visual Studio Code** you should see a **1** next to the **Source Control** icon in the sidebar.
