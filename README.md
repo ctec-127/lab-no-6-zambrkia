@@ -24,7 +24,7 @@ This repository contains the following files:
 9. Refer to Canvas for how to make selects sticky. There's sample code and a video.
 10. Your HTML/CSS should validate
 
-![Screen Layout](https://s3.amazonaws.com/ctec-assets/lab6_screen.png)
+![Screen Layout](https://s3.amazonaws.com/ctec-assets/lab6_screen.png?)
 
 ## Staging Your Code Changes
 
